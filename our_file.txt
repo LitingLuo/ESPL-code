@@ -5,3 +5,5 @@ This is a second line on branch_1
 =======
 This is the second line on branch_2
 >>>>>>> branch_2
+
+Hello world
